@@ -1,2 +1,7 @@
-exp-2
-I had learned abt GitHub that it holds data in its server
+Student Name:- K Teja
+Class:- Bsc
+Course:- Data Science
+suc code:- 2350250355
+
+Roll :- 01
+I colloborated with Vinay
